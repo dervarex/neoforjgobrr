@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "neoforj_go_brr:item/my_own_item"
+    "model": "minecraft:item/generated"
   }
 }
